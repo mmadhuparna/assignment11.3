@@ -27,8 +27,3 @@
     }
     button1.addEventListener('click', showAttributes,);// adding eventlistener to button 1
     button2.addEventListener('click', removeAttributes); // adding eventlistener to button 2
-    
-    
-     
-   
-    

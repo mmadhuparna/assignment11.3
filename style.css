@@ -2,4 +2,6 @@
 body{
     margin: 0 auto;
     padding: 0;
+    width: 90%;
+    left: 10%; /*leaving little space on left side*/
     }
