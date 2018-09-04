@@ -1,0 +1,5 @@
+/*removing unnecessary space from body*/
+body{
+    margin: 0 auto;
+    padding: 0;
+    }
